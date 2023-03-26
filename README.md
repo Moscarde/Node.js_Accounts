@@ -11,6 +11,6 @@ CRUD de um simples sistema bancário feito em nodejs
 
 ## Como usar 🤔
 
-1.  Clone o repositório: `git clone https://github.com/Moscarde/PyInstaCoach.git`
+1.  Clone o repositório: `git clone https://github.com/Moscarde/accounts_nodejs`
 2.  Instale as dependências: `npm install`
 3.  Execute o script: `npm start`
