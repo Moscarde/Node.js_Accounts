@@ -1,5 +1,5 @@
 # accounts_nodejs
-<h1 align="center"><img src="pictures/accounts.png" alt="logo" width=800/></h1>
+<h1 align="center"><img src="pictures/accounts.png" alt="logo" width=300/></h1>
 CRUD de um simples sistema bancário feito em nodejs
 
 ## Funcionalidades 🛠️
